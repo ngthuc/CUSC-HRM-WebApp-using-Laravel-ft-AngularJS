@@ -80,15 +80,20 @@
 * 12.3 VaoCa (time)
 * 12.4 TanCa (time)
 * 12.5 NgayChamCong
-### 13. PhanQuyen
-* 13.1 NhomQuyen_BanGiamDoc-PhongBan-Nhanvien
-* 13.2 ChiTietQuyen_CapTruong-CapPho
+### 13. NhomQuyen
+* 13.1 MaNhomQuyen
+* 13.2 NhomQuyen_BanGiamDoc-PhongBan-Nhanvien
+* 13.3 MaChucVu (default master)
+* 13.4 MaQuyen
+* 13.5 MoTaNhomQuyen
 ### 14. ChucVu
 * 14.1 MaChucVu
 * 14.2 TenChucVu
 * 14.3 MoTaChucVu
-* 14.4 NhomQuyen
-* 14.5 ChiTietQuyen
+* 14.4 CapTruong-CapPho
+### 15. VaiTroCuaQuyen
+* 15.1 MaQuyen
+* 15.2 VaiTro
 ### 15. DanhGiaXepLoai (theo NV)
 * 15.1 MaSoNV
 * 15.2 XepLoai
